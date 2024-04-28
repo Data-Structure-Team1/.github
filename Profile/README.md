@@ -49,9 +49,7 @@ Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for detailed inst
 
 We value a diverse and inclusive community where everyone feels welcome and respected. We expect all contributors and participants to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when interacting within this organization.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE). By contributing to this repository, you agree to license your contributions under the terms of the MIT License.
 
 ## Contact
 
