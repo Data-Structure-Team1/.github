@@ -20,15 +20,23 @@ Data structures form the backbone of any efficient software system. They are ess
 
 This repository contains implementations of various data structures, including but not limited to:
 
-Circular_Queue_Array.cpp: Implementation of a circular queue using arrays.
-Circular_queue: Folder created, possibly for further development or organization related to circular queues.
-Data Structures – Assignment #1 - Notes.pdf: Notes or assignment material related to data structures.
-SortedByGPA.txt: Text file containing sorted data by GPA.
-SortedByNAME.txt: Text file containing sorted data by name.
-Stack.cpp: Implementation of a stack data structure.
-StackArrayBased.cpp: Implementation of a stack using arrays.
-sorting.cpp: File uploaded, possibly containing sorting algorithms or related implementations.
-students.txt: File containing data related to students.
+-Circular_Queue_Array.cpp: Implementation of a circular queue using arrays.
+
+-Circular_queue: Folder created, possibly for further development or organization related to circular queues.
+
+-Data Structures – Assignment #1 - Notes.pdf: Notes or assignment material related to data structures.
+
+-SortedByGPA.txt: Text file containing sorted data by GPA.
+
+-SortedByNAME.txt: Text file containing sorted data by name.
+
+-Stack.cpp: Implementation of a stack data structure.
+
+-StackArrayBased.cpp: Implementation of a stack using arrays.
+
+-sorting.cpp: sorting algorithms implementations.
+
+-students.txt: File containing data related to students.
 
 ## Contributing
 
