@@ -43,12 +43,6 @@ We welcome contributions from everyone! Whether you're a seasoned developer or j
 - Add examples, tests, or documentation to clarify usage.
 - Share your insights, experiences, and best practices related to data structures.
 
-Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute to this repository.
-
-## Code of Conduct
-
-We value a diverse and inclusive community where everyone feels welcome and respected. We expect all contributors and participants to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when interacting within this organization.
-
 
 
 ## Contact
