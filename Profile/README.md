@@ -1,7 +1,3 @@
-# .github
-Certainly! Here's a sample README file for your Data Structure organization on GitHub:
-
----
 
 # Data Structure Organization
 
