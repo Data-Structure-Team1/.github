@@ -47,7 +47,7 @@ We welcome contributions from everyone! Whether you're a seasoned developer or j
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us via [email] or [open an issue](https://github.com/DataStructureOrganization/issues) in this repository.
+If you have any questions, suggestions, or feedback, feel free to reach out to us via [email] or [open an issue][(https://github.com/DataStructureOrganization/issues](https://github.com/Data-Structure-Team1/Assignment1/issues)) in this repository.
 
 Happy coding!
 
